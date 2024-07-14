@@ -1,0 +1,5 @@
+USE `...`;
+
+INSERT INTO `...` (`...`) VALUES
+    -- ...
+
